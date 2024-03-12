@@ -3,10 +3,11 @@
 Hello! I'm Matias Petrich, a final year student of Systems Engineering at the National Technological University, Regional Faculty of Rosario. Passionate about programming and software development, I'm constantly seeking opportunities to learn and grow in this exciting field.
 
 ## About Me
-🎓 I'm currently finishing my studies in Systems Engineering..
-🌱 I'm always looking to learn new technologies and expand my skills.
-🚀 My goal is to continue growing as a programmer and contribute to the world of technology with innovative and efficient solutions.
+- 🎓 I'm currently finishing my studies in Systems Engineering..
+- 🌱 I'm always looking to learn new technologies and expand my skills.
+- 🚀 My goal is to continue growing as a programmer and contribute to the world of technology with innovative and efficient solutions.
 
+## Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/matias-petrich-995a27272/)
 - 📧 [matias.petrich@gmail.com](mailto:matias.petrich@gmail.com)
 
@@ -41,6 +42,8 @@ Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Na
 ### 💻 OS 🔝
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+
+![Matiaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiaja&show_icons=true&theme=radical)
 
 
 <!--
