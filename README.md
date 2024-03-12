@@ -48,7 +48,7 @@ Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Na
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaja&layout=compact&theme=radical)
 
-![Matiaja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matiaja)
+![Matiaja's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matiaja&theme=radical)
 
 
 
