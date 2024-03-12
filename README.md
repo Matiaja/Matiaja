@@ -43,8 +43,12 @@ Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Na
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
+## Stats
 ![Matiaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiaja&show_icons=true&theme=radical)
 
+![Matiaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiaja&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaja&layout=compact&theme=radical)
 
 <!--
 **Matiaja/Matiaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
