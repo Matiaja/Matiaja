@@ -46,9 +46,10 @@ Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Na
 ## Stats
 ![Matiaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiaja&show_icons=true&theme=radical)
 
-![Matiaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matiaja&count_private=true&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaja&layout=compact&theme=radical)
+
+![Matiaja's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Matiaja&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+
 
 <!--
 **Matiaja/Matiaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
