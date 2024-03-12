@@ -8,11 +8,11 @@ Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Na
 🚀 My goal is to continue growing as a programmer and contribute to the world of technology with innovative and efficient solutions.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matias-petrich-995a27272/)
-- 📧 Email: [matias.petrich@gmail.com](mailto:matias.petrich@gmail.com)
+- 📧 [matias.petrich@gmail.com](mailto:matias.petrich@gmail.com)
 
 
 ## Technologies and tools
-
+68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e25323044796e616d6f44422d3430353344363f7374796c653d666f722d7468652d6261646765266c6f676f3d416d617a6f6e25323044796e616d6f4442266c6f676f436f6c6f723d7768697465
 ##⚡ Database 🔝
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
