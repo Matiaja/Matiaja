@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile 👋
 
-Hello! I'm Matias Petrich, a final year student of Systems Engineering at the National Technological University, Regional Faculty of Rosario. Passionate about programming and software development, I'm constantly seeking opportunities to learn and grow in this exciting field.
+Hello! I'm Matias Petrich, a final year student of Systems Engineering at the Universidad Tecnologica Nacional, facultad regional de Rosario. Passionate about programming and software development, I'm constantly seeking opportunities to learn and grow in this exciting field.
 
 ## About Me
 - 🎓 I'm currently finishing my studies in Systems Engineering..
